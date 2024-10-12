@@ -26,4 +26,4 @@ To view or run this website locally, follow these steps:
     bash
     cd portfolio
     
-3. Open index.html in your web browser.
+3. Open `index.html` in your web browser.
